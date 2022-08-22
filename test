@@ -1,0 +1,1 @@
+(not dipv4 contains '10.') and (not dipv4 contains '172.24')  and (http_req_host eq 'c.pcs.baidu.com') and (not sipv4 eq '10.43.42.171')  and (not sipv4 eq '10.43.193.229')  and (sipv4 eq '10.43.32.119') and (sipv4 eq '10.43.64.72') 
